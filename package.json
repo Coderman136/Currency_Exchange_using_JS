@@ -1,0 +1,20 @@
+{
+  "name": "exchange_rate_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coderman136/Currency_Exchange_using_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coderman136/Currency_Exchange_using_JS/issues"
+  },
+  "homepage": "https://github.com/Coderman136/Currency_Exchange_using_JS#readme"
+}
